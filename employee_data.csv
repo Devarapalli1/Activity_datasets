@@ -1,0 +1,21 @@
+Employee_Name,Years_of_Experience,Performance_Score,Salary,Gender
+Employee 6,3,7.2,"$52,000",Female
+Employee 7,8,8.5,"$78,000",Female
+Employee 8,2,6.8,"$48,000",Male
+Employee 9,12,9.1,"$95,000",Male
+Employee 10,5,7.8,"$65,000",Female
+Employee 11,7,8.3,"$72,000",Female
+Employee 12,4,7.5,"$58,000",Male
+Employee 13,10,8.9,"$88,000",Female
+Employee 14,1,6.5,"$45,000",Female
+Employee 15,6,8,"$68,000",Female
+"Albert, Michael",14,7.7,"$54,500",Male
+"Bozzi, Charles",12,8.2,"$50,500",Male
+"Butler, Webster L",9,5.5,"$55,000",Male
+"Dunn, Amy",11,6.7,"$51,000",Female
+"Gray, Elijiah",10,8.6,"$54,000",Female
+"Liebig, Ketsia",12,9.5,"$55,000",Female
+"Miller, Brannon",13,8,"$53,000",Male
+"Spirea, Kelley",13,8.7,"$52,000",Female
+"Stanley, David",15,9.3,"$53,000",Male
+"Sullivan, Kissy",16,9.8,"$55,000",Female
